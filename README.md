@@ -1,6 +1,6 @@
 [React Material Kit](https://material-kit-react.appseed.us/)
 ====
-DEMO app for [Material Kit React - From 0 to Full-Stack](https://blog.appseed.us/material-kit-react-from-zero-to-full-stack/) blog article 
+DEMO app for [Material Kit React - From Zero to Full-Stack](https://blog.appseed.us/material-kit-react-from-zero-to-full-stack/) blog article 
 
 
 ![Material Kit React](https://static.appseed.us/misc/material-kit-react.png)

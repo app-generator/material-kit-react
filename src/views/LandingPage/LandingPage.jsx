@@ -55,7 +55,7 @@ class LandingPage extends React.Component {
                 <Button
                   color="danger"
                   size="lg"
-                  href="https://github.com/hack-land/material-kit-react"
+                  href="https://github.com/app-generator/material-kit-react"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -1,4 +1,4 @@
-[React Material Kit](https://appseed.us/apps/material-kit)
+# [React Material Kit](https://appseed.us/apps/material-kit)
 
 Full-Stack app with **Material Design** coded in **React**
 

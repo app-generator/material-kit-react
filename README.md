@@ -1,19 +1,27 @@
-[React Material Kit](https://material-kit-react.appseed.us/)
-====
-DEMO app for [Material Kit React - From Zero to Full-Stack](https://blog.appseed.us/material-kit-react-from-zero-to-full-stack/) blog article 
+[React Material Kit](https://appseed.us/apps/material-kit)
 
+Full-Stack app with **Material Design** coded in **React**
 
-![Material Kit React](https://static.appseed.us/misc/material-kit-react.png)
+<br />
+
+![Material Kit React](https://github.com/app-generator/static/blob/master/products/react-express-material-kit.jpg?raw=true)
+
+<br />
 
 ## Requirements
 - [Node.js](https://nodejs.org/) >= 6.x
 
+<br />
+
 ## Setting up for development
-* clone the project: `git clone https://github.com/hack-land/material-kit-react.git`
-* change directory to this project: `cd material-kit`
-* Default backend URL `http://127.0.0.1:3000`. This can be overwritten by updating the file: `src/views/LoginPage/LoginPage.jsx`
+ - clone the project: `git clone https://github.com/hack-land/material-kit-react.git`
+ - change directory to this project: `cd material-kit`
+ - Default backend URL `http://127.0.0.1:3000`. This can be overwritten by updating the file: `src/views/LoginPage/LoginPage.jsx`
+
+<br />
 
 ## Scripts
+
 **Install Dependencies**
 ```bash
 $ yarn 
@@ -29,11 +37,13 @@ $ yarn
 * **Linux/MacOs**: 
 `yarn build` - build the app in `build` directory
 
-## Support
-Live support on [Discord](  ) and [Facebook](https://www.facebook.com/groups/fullstack.apps.generator). 
+<br />
 
-## MIT License
-Copyright (c) 2018 - present [AppSeed.us](https://www.appseed.us/?ref=github) 
+## Support
+
+For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+
+<br />
 
 ---
-Made with ♥ by [AppSeed.us](https://appseed.us)
+[React Material Kit](https://appseed.us/apps/material-kit) provided by **AppSeed**

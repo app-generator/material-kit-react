@@ -14,8 +14,8 @@ Full-Stack app with **Material Design** coded in **React**
 <br />
 
 ## Setting up for development
- - clone the project: `git clone https://github.com/hack-land/material-kit-react.git`
- - change directory to this project: `cd material-kit`
+ - clone the project: `https://github.com/app-generator/material-kit-react.git`
+ - change directory to this project: `cd material-kit-react`
  - Default backend URL `http://127.0.0.1:3000`. This can be overwritten by updating the file: `src/views/LoginPage/LoginPage.jsx`
 
 <br />
